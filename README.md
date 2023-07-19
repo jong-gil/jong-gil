@@ -1,3 +1,3 @@
 ### 개발 초심자 이종길입니다.
 
-[![종길's GitHub stats](https://github-readme-stats.vercel.app/api?username=burtples&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![jong-gil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jong-gil&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
